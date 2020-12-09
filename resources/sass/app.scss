@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+.mt-12{
+    margin-top: 12rem;
+}
+
+.bg-green{
+    background-color: #2eca6a !important;
+}
